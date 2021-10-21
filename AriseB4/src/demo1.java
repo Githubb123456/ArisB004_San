@@ -8,6 +8,7 @@ public class demo1 {
 
 	public static void main(String[] args) {
 
+		//comment
 		Scanner myobj = new Scanner(System.in);
 		System.out.println("Enter the Browser Name");
 		String vBrowser = myobj.nextLine();
